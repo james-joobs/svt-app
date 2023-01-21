@@ -1,3 +1,8 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import Nav from "../components/nav.svelte";
+</script>
+
+<Nav></Nav>
+
+<h1>Home page</h1>
+<p>TODO...</p>
